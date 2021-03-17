@@ -1,4 +1,6 @@
-@import './partials/utils/variables';
+@import './partials/utils/colors';
+@import './partials/utils/functions';
+@import './partials/utils/mixins';
 
 // Base Styles
 @import './partials/base/reset';
